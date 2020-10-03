@@ -4,7 +4,7 @@ body{
 #tops{
 	width: 100%;
 	height:130px;
-	background-image: url("pics/pics4.jpg");
+	background-image: url("pics4.jpg");
 	background-size: cover;
 }
 
@@ -22,7 +22,7 @@ body{
 	height: 70px;
 	
 	margin-top:2px;
-	background-image: url("pics/pics1.jpg");
+	background-image: url("pics1.jpg");
 }
 /*--------------------------------------------------------------*/
 
@@ -129,7 +129,7 @@ body{
 	float: left;
 	margin-top: 100px;
 	margin-left: 30px;
-	background-image: url("pics/pics1.jpg");
+	background-image: url("pics1.jpg");
 	
 }
 #txtf{
@@ -149,7 +149,7 @@ body{
 	float: left;
 	margin-top: 50px;
 	margin-left: 90px;
-	background-image: url("pics/pics4.jpg");
+	background-image: url("pics4.jpg");
 	text-align: center;
 	
 }
@@ -170,7 +170,7 @@ body{
 	float: left;
 	margin-top: 100px;
 	margin-left: 90px;
-	background-image: url("pics/pics2.jpg");
+	background-image: url("pics2.jpg");
 	
 }
 #txtt{
